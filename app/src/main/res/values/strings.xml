@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SalesFinder</string>
+    <string name="action_settings">Esci</string>
+    <string-array name="categories">
+        <item>Informatica</item>
+        <item>Elettronica</item>
+        <item>Auto e Moto</item>
+        <item>Casa e Cucina</item>
+        <item>Valigeria</item>
+        <item>Industria e Scienza</item>
+        <item>Fai da te</item>
+        <item>Sport e tempo libero</item>
+        <item>Scarpe e borse</item>
+        <item>Giardino e giardinaggio</item>
+        <item>Giochi e giocattoli</item>
+        <item>Abbigliamento Donna</item>
+        <item>Abbigliamento Uomo</item>
+        <item>Strumenti musicali e DJ</item>
+        <item>Illuminazione</item>
+        <item>Orologi</item>
+        <item>App e Giochi</item>
+        <item>Libri</item>
+        <item>Bellezza</item>
+        <item>Libri in altre lingue</item>
+        <item>Prima Infanzia</item>
+        <item>Kindle Store</item>
+        <item>Gioielli</item>
+        <item>Videogiochi</item>
+        <item>Musica Digitale</item>
+        <item>Salute e cura della persona</item>
+        <item>Software</item>
+        <item>Alimentari e cura della casa</item>
+        <item>CD e vinili</item>
+        <item>Film e TV</item>
+        <item>Handmade</item>
+        <item>Cancelleria e Prodotti per ufficio</item>
+        <item>Altro</item>
+    </string-array>
+</resources>
